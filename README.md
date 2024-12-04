@@ -62,17 +62,20 @@ The visual analysis was performed using Tableau. The following key dashboards we
 ## File Attachments
 Screenshots of the dashboards have been attached to provide a visual summary of the analysis:
 
-- **Overall Crop Production and Yield Trends:** Overview of crop production and yield trends across states.
-  
-  ![swd](https://github.com/user-attachments/assets/10d0a71c-482a-44b6-a250-766dd77c65a2)
+- **Overall Crop Production and Yield Trends(state-wise):** Overview of crop production and yield trends across states.
+  ![state wise dashboard](https://github.com/user-attachments/assets/5489b165-4b39-441f-9f3f-08893171d748)
+
+
 
 - **ACR's Analysis:** Detailed analysis of crop production and yield across different agro-climate regions.
   
-  ![ACR's Analysis](https://github.com/user-attachments/assets/f5e62c4d-9715-4273-a902-a24029a57620)
+
+![ACR's Analysis](https://github.com/user-attachments/assets/0a68814b-239e-47a8-8e5c-849ef40419e7)
 
 - **District Analysis:** District-wise analysis showcasing major crops and seasonal performance.
   
-  ![111](https://github.com/user-attachments/assets/39e39b16-f280-45d4-b83a-8ee82db57fc2)
+
+![district dashboard](https://github.com/user-attachments/assets/4e75e7e0-8ea3-48fc-b2ad-851c7fabec54)
 
 ## Conclusion
 This analysis provides an in-depth look at agricultural productivity across various regions in India, highlighting trends that can guide future agricultural policies and interventions. The integration of Tableau for visualization allows easy exploration of these trends, making it an effective tool for stakeholders in the agricultural sector.
